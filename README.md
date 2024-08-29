@@ -1,0 +1,2 @@
+# Design-Development-and-Acoustic-analysis-of-Normal-and-Lomard-speech-Tamil-corpus
+The project involves creating a Tamil speech corpus for both normal and Lombard speech, where the Lombard effect refers to speech changes in noisy conditions. It includes designing the corpus, collecting and annotating data, and analyzing acoustic features to improve speech recognition and synthesis systems in noisy environments.
